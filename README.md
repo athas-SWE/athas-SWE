@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Dotnet , Csharp**
 
-- 💬 Ask me about **Mern , Java**
+- 💬 Ask me about **Mern Stack , Java**
 
 - 📫 How to reach me **ahamedathas12@gmail.com**
 
